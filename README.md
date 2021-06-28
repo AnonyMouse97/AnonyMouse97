@@ -1,6 +1,6 @@
 # Hi Stranger, welcome on my GitHub 👋
 
-But _who am I_ ? 🤨 My name is **Samuel Letocart** (fo those who speak french, yes it is my real name) and I live in **Liège, Belgium**. I'm a 24y.o. **developper** currently finishing my learning [BeCode](https://becode.org/fr/) and I also have got a bachelor's degree in **3D computer graphics**. 
+But _who am I_ ? 🤨 My name is **Samuel Letocart** (for those who speak french, yes it is my real name) and I live in **Liège, Belgium**. I'm a 24y.o. **developper** currently finishing my learning [BeCode](https://becode.org/fr/) and I also have got a bachelor's degree in **3D computer graphics**. 
 
 ### How to reach me ? 
 [![email](./img/mail.png)](mailto:samuel.le.belgique@gmail.com)
